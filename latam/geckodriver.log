@@ -652,3 +652,4 @@ JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/mul
 JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
 JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
 1600354856710	Marionette	INFO	Stopped listening on port 33201
+1600355194111	Marionette	INFO	Stopped listening on port 35089
