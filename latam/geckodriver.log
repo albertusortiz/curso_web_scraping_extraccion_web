@@ -1,0 +1,654 @@
+1600313999333	geckodriver	INFO	Listening on 127.0.0.1:45293
+1600314000344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNkbcZf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600314002974	Marionette	INFO	Listening on port 35137
+1600314003087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600314004679	Marionette	INFO	Stopped listening on port 35137
+1600314012453	geckodriver	INFO	Listening on 127.0.0.1:47447
+1600314012458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFntCAD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600314014969	Marionette	INFO	Listening on port 40853
+1600314015071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600314099356	geckodriver	INFO	Listening on 127.0.0.1:39457
+1600314099363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileinqCHA"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600314101988	Marionette	INFO	Listening on port 39145
+1600314102075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600314108597	Marionette	INFO	Stopped listening on port 39145
+1600314132344	geckodriver	INFO	Listening on 127.0.0.1:59085
+1600314133351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTgCFeh"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600314136026	Marionette	INFO	Listening on port 39045
+1600314136083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 145: TypeError: e is null
+1600314146017	Marionette	INFO	Stopped listening on port 40853
+1600314247756	geckodriver	INFO	Listening on 127.0.0.1:42377
+1600314248791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejHN2Nd"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600314251629	Marionette	INFO	Listening on port 38393
+1600314251705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1600314259574	Marionette	INFO	Stopped listening on port 38393
+1600314261906	Marionette	INFO	Stopped listening on port 39045
+1600314273732	geckodriver	INFO	Listening on 127.0.0.1:56325
+1600314274741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSlilxh"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600314277482	Marionette	INFO	Listening on port 44899
+1600314277554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 145: TypeError: e is null
+1600314284040	geckodriver	INFO	Listening on 127.0.0.1:55839
+1600314285047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqCjXzV"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600314287734	Marionette	INFO	Listening on port 44063
+1600314287774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600314287826	Marionette	INFO	Stopped listening on port 44063
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600314338799	Marionette	INFO	Stopped listening on port 44899
+1600314477250	geckodriver	INFO	Listening on 127.0.0.1:51685
+1600314477258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiqV4r3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600314479794	Marionette	INFO	Listening on port 44837
+1600314479871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1600314483933	Marionette	INFO	Stopped listening on port 44837
+1600314532456	geckodriver	INFO	Listening on 127.0.0.1:41059
+1600314532463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8b4D0J"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600314535023	Marionette	INFO	Listening on port 33921
+1600314535074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600314545913	Marionette	INFO	Stopped listening on port 33921
+1600314554733	geckodriver	INFO	Listening on 127.0.0.1:51949
+1600314554743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewsy4vx"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600314557510	Marionette	INFO	Listening on port 36931
+1600314557560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600314565109	Marionette	INFO	Stopped listening on port 36931
+1600314569558	geckodriver	INFO	Listening on 127.0.0.1:40993
+1600314569563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebSlTFS"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600314572223	Marionette	INFO	Listening on port 42993
+1600314572272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600314575050	Marionette	INFO	Stopped listening on port 42993
+1600314581111	geckodriver	INFO	Listening on 127.0.0.1:58589
+1600314581116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAmYzTQ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600314583788	Marionette	INFO	Listening on port 40221
+1600314583875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600314586033	Marionette	INFO	Stopped listening on port 40221
+1600314595214	geckodriver	INFO	Listening on 127.0.0.1:38347
+1600314596220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemrMREQ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600314598940	Marionette	INFO	Listening on port 34165
+1600314599036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://s.latamstatic.com/js/libs/external/require/2.1.8/require.js, line 8: Error: Script error for: optimizely
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 145: TypeError: e is null
+1600314619196	Marionette	INFO	Stopped listening on port 34165
+1600314993828	geckodriver	INFO	Listening on 127.0.0.1:36657
+1600314993835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1JwaZ3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600314996885	Marionette	INFO	Listening on port 44375
+1600314996949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://s.latamstatic.com/js/libs/external/require/2.1.8/require.js, line 8: Error: Script error for: optimizely
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 145: TypeError: e is null
+1600349955402	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1012:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1630:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1012:5)", "resource://devtools/shared/protocol/Front.js", 323))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1539: TypeError: targetFront is null
+1600350061363	Marionette	INFO	Stopped listening on port 44375
+1600350291213	geckodriver	INFO	Listening on 127.0.0.1:33527
+1600350291228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemESsod"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600350294407	Marionette	INFO	Listening on port 36305
+1600350294483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://s.latamstatic.com/js/libs/external/require/2.1.8/require.js, line 8: Error: Script error for: optimizely
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1630:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1539: TypeError: targetFront is null
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://s.latamstatic.com/js/libs/external/require/2.1.8/require.js, line 8: Error: Script error for: optimizely
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+1600350480050	Marionette	INFO	Stopped listening on port 36305
+1600350487504	geckodriver	INFO	Listening on 127.0.0.1:53685
+1600350487509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR4KW3N"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600350490363	Marionette	INFO	Listening on port 38337
+1600350490430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://s.latamstatic.com/js/libs/external/require/2.1.8/require.js, line 8: Error: Script error for: optimizely
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:406:10
+
+1600351377819	Marionette	INFO	Stopped listening on port 38337
+1600351431080	geckodriver	INFO	Listening on 127.0.0.1:42665
+1600351432089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebR8Cx7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600351435309	Marionette	INFO	Listening on port 42147
+1600351435401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+1600351554222	Marionette	INFO	Stopped listening on port 42147
+1600351558411	geckodriver	INFO	Listening on 127.0.0.1:47767
+1600351558419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex7zWub"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600351561260	Marionette	INFO	Listening on port 36637
+1600351561329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+1600351788718	Marionette	INFO	Stopped listening on port 36637
+1600352111887	geckodriver	INFO	Listening on 127.0.0.1:53001
+1600352111910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRJ5oYx"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600352114629	Marionette	INFO	Listening on port 43495
+1600352114720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+1600352142385	Marionette	INFO	Stopped listening on port 43495
+1600352150730	geckodriver	INFO	Listening on 127.0.0.1:54713
+1600352150735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeoq4nh"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600352153494	Marionette	INFO	Listening on port 43515
+1600352153544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+1600352178709	Marionette	INFO	Stopped listening on port 43515
+1600352432906	geckodriver	INFO	Listening on 127.0.0.1:44503
+1600352432916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCcDCBx"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600352436002	Marionette	INFO	Listening on port 37313
+1600352436040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+1600352477945	Marionette	INFO	Stopped listening on port 37313
+1600352494933	geckodriver	INFO	Listening on 127.0.0.1:54731
+1600352494941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8CQlaY"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600352497787	Marionette	INFO	Listening on port 41677
+1600352497854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+1600352552648	Marionette	INFO	Stopped listening on port 41677
+1600352826326	geckodriver	INFO	Listening on 127.0.0.1:45561
+1600352826330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFI6E1I"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600352828981	Marionette	INFO	Listening on port 33935
+1600352829042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+1600352906129	geckodriver	INFO	Listening on 127.0.0.1:40371
+1600352907135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiJvK4U"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600352909723	Marionette	INFO	Listening on port 39751
+1600352909744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+1600352925738	Marionette	INFO	Stopped listening on port 39751
+1600352927758	Marionette	INFO	Stopped listening on port 33935
+1600352944061	geckodriver	INFO	Listening on 127.0.0.1:33597
+1600352944071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem2uXEl"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600352947173	Marionette	INFO	Listening on port 35535
+1600352947200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+1600353286305	geckodriver	INFO	Listening on 127.0.0.1:41099
+1600353286314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHVnxd7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600353288928	Marionette	INFO	Listening on port 42265
+1600353289027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+1600353291115	Marionette	INFO	Stopped listening on port 35535
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+1600353356104	Marionette	INFO	Stopped listening on port 42265
+1600353361947	geckodriver	INFO	Listening on 127.0.0.1:41051
+1600353361952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej7oiSg"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600353364558	Marionette	INFO	Listening on port 39691
+1600353364564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://s.latamstatic.com/apps/booking/1.12.26/dist/js/booking.js, line 2: TypeError: t.payload.data is undefined
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+1600353409325	Marionette	INFO	Stopped listening on port 39691
+1600353863201	geckodriver	INFO	Listening on 127.0.0.1:55213
+1600353863209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLlh4Re"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600353865848	Marionette	INFO	Listening on port 38149
+1600353865932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://s.latamstatic.com/js/libs/external/require/2.1.8/require.js, line 8: Error: Script error for: optimizely
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+1600354054562	Marionette	INFO	Stopped listening on port 38149
+1600354097930	geckodriver	INFO	Listening on 127.0.0.1:38287
+1600354097938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAC7MB7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600354100733	Marionette	INFO	Listening on port 33165
+1600354100767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+1600354144590	Marionette	INFO	Stopped listening on port 33165
+1600354674641	geckodriver	INFO	Listening on 127.0.0.1:45895
+1600354674646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoEWS2p"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600354677527	Marionette	INFO	Listening on port 35089
+1600354677585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+1600354837132	geckodriver	INFO	Listening on 127.0.0.1:50571
+1600354838139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYr5Sa7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600354841411	Marionette	INFO	Listening on port 33201
+1600354841457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/es_mx/apps/personas/booking?fecha1_dia=12&fecha1_anomes=2020-10&fecha2_dia=14&fecha2_anomes=2020-10&from_city2=MAD&to_city2=BUE&auAvailability=1&ida_vuelta=ida_vuelta&vuelos_origen=Buenos%20Aires&from_city1=BUE&vuelos_destino=Madrid&to_city1=MAD&flex=1&vuelos_fecha_salida_ddmmaaaa=11/10/2020&vuelos_fecha_regreso_ddmmaaaa=11/10/2020&cabina=Y&nadults=1&nchildren=0&ninfants=0&cod_promo=&stopover_outbound_days=0&stopover_inbound_days=0&application=#/, line 163: TypeError: e is null
+1600354856710	Marionette	INFO	Stopped listening on port 33201
